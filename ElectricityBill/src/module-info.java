@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kurinji
+ *
+ */
+module ElectricityBill {
+}
